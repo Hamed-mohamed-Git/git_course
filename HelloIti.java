@@ -16,4 +16,9 @@ class HelloIti{
 	public void printHelloGitHub(){
 		System.out.println("hello github");
 	}
+
+	//add some changes using github
+	public void printHelloGitHubMember(){
+		System.out.println("hello github Member");
+	}
 }
