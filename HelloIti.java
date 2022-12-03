@@ -11,4 +11,9 @@ class HelloIti{
 	public void printHelloGit(){
 		System.out.println("hello Git");
 	}
+
+
+	public void printHelloGitHub(){
+		System.out.println("hello github");
+	}
 }
